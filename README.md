@@ -1,8 +1,8 @@
-# README.txt
-
 ## Self-Driving Car using NEAT and Pygame
 
 ![Demo](https://www.youtube.com/watch?v=OEOeT3jXs28)
+
+[Watch the Demo on YouTube](https://www.youtube.com/watch?v=OEOeT3jXs28)
 
 This is a simple self-driving car simulation using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm and Pygame. The car learns to navigate a track using LiDAR sensors to detect the environment and neural networks to make decisions about its direction.
 
